@@ -3,6 +3,10 @@ import turtle
 t = turtle.Turtle()
 t.pensize(5)
 
-for i in range(4):
-    t.left(90)
-    t.forward(100)
+length = 5
+
+for cont in range(100):
+    t.forward(length)
+
+    t.right(135)
+    length = length + 5
