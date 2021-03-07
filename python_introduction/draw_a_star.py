@@ -1,7 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
-t.pensize(5)
+t.pensize(2)
 
 length = 5
 
