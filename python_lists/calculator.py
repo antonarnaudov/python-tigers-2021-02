@@ -28,6 +28,4 @@ while True:
     if x == 'n':
         print()
         break
-
-
 print('Thanks for playing!')
